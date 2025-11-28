@@ -15,7 +15,6 @@
 
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 import seaborn as sns
 
 # --- Configuration ---
@@ -262,4 +261,5 @@ def main():
 
 # Run the main function
 if __name__ == "__main__":
+
     main()
